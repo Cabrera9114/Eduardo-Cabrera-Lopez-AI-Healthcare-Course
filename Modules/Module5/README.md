@@ -39,4 +39,4 @@ These challenges show the importance of ethical AI use in healthcare.
 This module demonstrated how AI can be used for risk prediction and prognosis in healthcare. These models can improve early intervention and patient outcomes when used responsibly alongside clinical expertise.
 
 ## 📄 Files Included
-- Prognostic Model Evaluation Assignment
+- [Module 5 Assignment - AI Risk Modeling](./A05_EduardoCabrera_ITAI%204375.pdf)

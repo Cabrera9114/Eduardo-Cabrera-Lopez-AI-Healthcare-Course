@@ -37,4 +37,4 @@ These challenges highlight the need for careful implementation and human oversig
 This module demonstrated how NLP can significantly improve healthcare data analysis and efficiency. When used responsibly, NLP can enhance decision-making while still requiring human validation.
 
 ## 📄 Files Included
-- NLP Healthcare Study Critique
+- [Module 8 Assignment - NLP in Healthcare](./A08_EduardoCabrera_ITAI%204375.pdf)

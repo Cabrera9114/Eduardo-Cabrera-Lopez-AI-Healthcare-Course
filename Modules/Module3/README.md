@@ -37,4 +37,4 @@ Addressing these issues is critical to ensure safe and ethical use of AI in heal
 This module helped me understand how AI can transform clinical decision-making. AI-powered CDSS systems can significantly improve healthcare quality and efficiency when implemented responsibly.
 
 ## 📄 Files Included
-- Future Scenario Assignment (CDSS)
+- [Module 3 Assignment - AI-Powered CDSS](./A03_EduardoCabrera_ITAI%203375.pdf)

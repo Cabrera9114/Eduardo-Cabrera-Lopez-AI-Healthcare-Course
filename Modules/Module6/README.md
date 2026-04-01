@@ -38,4 +38,4 @@ These challenges must be addressed to ensure fair and responsible AI use.
 This module demonstrated how AI can be used to improve population health by incorporating social and environmental factors. Responsible use of this data is essential to ensure equitable healthcare outcomes.
 
 ## 📄 Files Included
-- Population Health Analytics Assignment
+- [Module 6 Assignment - Population Health Analytics](./A06_EduardoCabrera_ITAI%204375.pdf)

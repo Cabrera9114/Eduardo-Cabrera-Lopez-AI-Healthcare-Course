@@ -38,4 +38,4 @@ These challenges highlight the importance of ethical AI in healthcare.
 This module showed how responsible data science can improve patient outcomes by identifying risks early and supporting better decision-making. AI should be used as a support tool while maintaining ethical standards and human involvement.
 
 ## 📄 Files Included
-- Medical Case Study Risk Analysis
+- [Module 7 Assignment - Responsible Data Science](./A07_EduardoCabrera_ITAI%204375.pdf)

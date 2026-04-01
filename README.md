@@ -53,4 +53,22 @@ This portfolio reflects my hands-on experience applying AI concepts in healthcar
 
 ---
 
-## 📂 Repository Structure
+
+## 🚀 Highlights
+- 📊 Built understanding of **AI-driven diagnostics**
+- 🧠 Explored **clinical decision support systems**
+- 📈 Applied **risk prediction models**
+- 🌍 Analyzed **population health & SDOH**
+- 💬 Worked with **NLP in healthcare**
+- 🤖 Designed **Reinforcement Learning healthcare scenario**
+
+---
+
+## 📌 Conclusion
+This portfolio demonstrates my ability to connect **AI concepts with real-world healthcare applications**, while considering **ethical, technical, and practical challenges**.
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/eduardo-cabrera-lopez-9122b0322
+- GitHub: https://github.com/Cabrera9114

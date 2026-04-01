@@ -37,4 +37,4 @@ These challenges highlight the importance of cautious implementation.
 This module demonstrated the potential of reinforcement learning in healthcare for improving patient outcomes through adaptive and personalized treatment strategies. RL should be used as a support tool alongside healthcare professionals.
 
 ## 📄 Files Included
-- Reinforcement Learning Healthcare Scenario
+- [Module 9 Assignment - Reinforcement Learning](./A09_EduardoCabrera_ITAI%204375.pdf)

@@ -35,4 +35,4 @@ This highlights the importance of combining AI with clinical expertise.
 This module demonstrated how AI-based diagnostic tools can significantly improve healthcare outcomes. While not perfect, these systems provide valuable support to clinicians and enhance decision-making.
 
 ## 📄 Files Included
-- AI Diagnostic Study Evaluation
+- [Module 4 Assignment - AI Diagnostic Tools](./A04_CabreraLopez_ITAI%204375.pdf)

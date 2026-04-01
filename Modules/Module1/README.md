@@ -33,3 +33,4 @@ This module provided a strong foundation in medical terminology and its connecti
 
 ## 📄 Assignment File
 See the full assignment here:
+[A01 Medical Terminology Assignment](./A01_EduardoCabrera_ITAI%203375.pdf)

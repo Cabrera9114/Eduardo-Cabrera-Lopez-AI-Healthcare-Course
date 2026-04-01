@@ -1,6 +1,4 @@
 # 🧠 AI in Healthcare Portfolio  
-![Banner](https://images.unsplash.com/photo-1581091012184-5c7c4c3f1f92)
-
 **Eduardo Cabrera-Lopez**
 
 ![AI Healthcare](https://img.shields.io/badge/Focus-AI%20in%20Healthcare-blue)

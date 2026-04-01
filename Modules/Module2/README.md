@@ -33,5 +33,5 @@ One challenge was understanding how small datasets relate to real-world healthca
 This module introduced the fundamentals of healthcare data analysis and demonstrated how statistical methods and big data analytics are used to improve healthcare systems.
 
 ## 📄 Files Included
-- Assignment 2 (Statistical Analysis)
-- Healthcare Big Data Article
+- [Assignment 2 - Healthcare Dataset Analysis](./A02_EduardoCabrera_ITAI%203375.pdf)
+- [Healthcare Big Data Article](./Health%20Article.pdf)
